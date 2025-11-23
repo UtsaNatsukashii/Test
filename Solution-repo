@@ -2,9 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>
+<title>real</title>
 </head>
-</title>
 <body>
 <h1>Aleis Elizabeth</h1>
 <h2>New Html Learner</h2>
