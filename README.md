@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>real</title>
 </head>
 <body>
 <h1>Aleis Elizabeth</h1>
